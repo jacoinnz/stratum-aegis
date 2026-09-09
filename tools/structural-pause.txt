@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en-NZ">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Structural Pause: A Crisis Response Method From Aviation</title>
+<meta name="description" content="How to run the Structural Pause: a forced ten-minute gap between a crisis and your response, adapted from aviation crew resource management — and when the time pressure is too high to use it.">
+<link rel="canonical" href="https://stratumaegis.com/tools/structural-pause.html">
+<meta name="robots" content="index, follow">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Stratum Aegis">
+<meta property="og:title" content="The Structural Pause: A Crisis Response Method From Aviation">
+<meta property="og:description" content="A forced ten-minute gap between a crisis and your response, adapted from aviation crew training.">
+<meta property="og:url" content="https://stratumaegis.com/tools/structural-pause.html">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='16' height='32' fill='%23A9772A'/%3E%3Crect x='16' width='16' height='32' fill='%23204B52'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,500&family=Source+Sans+3:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="/assets/styles.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to run a Structural Pause",
+  "description": "A forced ten-minute gap between a crisis and your response.",
+  "step": [
+    {"@type":"HowToStep","name":"Check time pressure","text":"Confirm the crisis is strategic (hours to decide), not real-time (seconds to decide)."},
+    {"@type":"HowToStep","name":"Enforce the pause","text":"Step away from the keyboard or conversation for ten minutes."},
+    {"@type":"HowToStep","name":"Write three options","text":"Generate three distinct written responses before speaking or acting."},
+    {"@type":"HowToStep","name":"Respond","text":"Choose from the written options rather than reacting on impulse."}
+  ]
+}
+</script>
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="frame">
+    <a href="/" class="brand"><span class="mark"><span class="a"></span><span class="b"></span></span>Stratum Aegis</a>
+    <div class="navlinks">
+      <a href="/#tools">The tools</a>
+      <a href="/vs-kepner-tregoe.html">vs. Kepner-Tregoe</a>
+      <a href="/playbook.html">Playbook</a>
+    </div>
+    <a class="navcta" href="/playbook.html">Read the playbook</a>
+  </div>
+</nav>
+
+<div class="frame" style="padding-top:40px;padding-bottom:64px;">
+  <article>
+    <div class="breadcrumbs"><a href="/">Home</a> / <a href="/#tools">Tools</a> / Structural Pause</div>
+    <div class="eyebrow"><span class="bar"></span>TOOL 03 &middot; LEADERSHIP &amp; CRISIS RESPONSE</div>
+    <h1>The Structural Pause</h1>
+    <p class="dek">A forced ten minutes between a crisis and your response &mdash; long enough to stop System 1 panic from making the call for you.</p>
+
+    <h2>What it is</h2>
+    <p>When something breaks unexpectedly, the instinct is to react immediately &mdash; and that instinct is usually wrong, because it's an emotional survival reflex, not a considered judgment. The Structural Pause interrupts that reflex with one rule: before you respond to a crisis, you must first write down three distinct ways to handle it. Generating three options, in writing, forces System 2 logic back online.</p>
+
+    <h2>Where it came from</h2>
+    <p>The same principle underwrites aviation Crew Resource Management: when an engine fails, pilots are trained to resist the panic reaction to grab the controls, and instead read through a structured checklist together. In business, Bridgewater Associates enforces a version of this through internal tooling &mdash; the moment an error or a heated argument surfaces on the trading floor, the process forces a written, analytical root-cause note before anyone reacts.</p>
+
+    <h2>The safeguard &mdash; check the time pressure first</h2>
+    <p>This is the one tool on this site that can actively make things worse if you use it in the wrong moment. Ask: is this crisis measured in seconds, or in hours?</p>
+    <div class="safeguard-pair">
+      <div class="safeguard green"><div class="sg-title">✅ Green · strategic, hours to decide</div><p>A PR problem, an executive resignation, a bad client email. Enforce the full ten-minute pause.</p></div>
+      <div class="safeguard red"><div class="sg-title">🚫 Red · real-time, seconds to decide</div><p>A safety incident, a live systems outage threatening data loss. Don't pause &mdash; fall back to your trained emergency procedure. System 1 reflex is correct here.</p></div>
+    </div>
+
+    <h2>How to run it</h2>
+    <h3>1. Stop</h3>
+    <p>The moment the crisis surfaces &mdash; in a channel, a call, a hallway conversation &mdash; the leader calls a hard stop. Nobody responds publicly yet.</p>
+    <h3>2. Step away for ten minutes</h3>
+    <p>The person closest to the problem steps away from the keyboard or the conversation. Not to calm down in the abstract &mdash; to do the next step.</p>
+    <h3>3. Write three distinct options</h3>
+    <p>Force yourself to generate three genuinely different responses, in writing, before you're allowed to act on any of them. The act of generating alternatives is what breaks the automatic script.</p>
+    <h3>4. Respond from the list</h3>
+    <p>Pick from what you wrote, not from what you felt like doing in the first thirty seconds.</p>
+
+    <h2>Where it breaks</h2>
+    <p>Two failure modes: using it on a genuine real-time emergency (a velocity tax you can't afford), and using it so often on minor friction that people start quietly bypassing it. Reserve it for real strategic pivots and crises, not routine disagreements.</p>
+
+    <div class="related">
+      <h2>Continue reading</h2>
+      <ul>
+        <li><a href="/tools/premortem.html">The Premortem &rarr; catch the risk before the crisis exists</a></li>
+        <li><a href="/tools/friction-dial.html">The Friction Dial &rarr; for funnel and UX decisions</a></li>
+        <li><a href="/playbook.html">The full CU-BOM playbook &rarr;</a></li>
+      </ul>
+    </div>
+  </article>
+</div>
+
+<footer>
+  <div class="frame">
+    <span>Stratum Aegis &middot; New Zealand</span>
+    <div class="foot-links"><a href="/">Home</a><a href="/playbook.html">Playbook</a><a href="/sitemap.xml">Sitemap</a></div>
+  </div>
+</footer>
+
+</body>
+</html>
