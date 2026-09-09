@@ -26,7 +26,7 @@ const HOME_STYLE = `
   .hero .dek{ margin-top:22px; font-size:18.5px; max-width:46ch; }
   .hero .ctarow{ margin-top:32px; display:flex; gap:14px; flex-wrap:wrap; align-items:center; }
   .hero .microcopy{ margin-top:14px; font-size:13px; color:var(--ink-faint); }
-  .hero-diagram{ position:relative; aspect-ratio:1/1; max-width:400px; margin:0 auto; border-radius:16px; overflow:hidden; border:1px solid var(--line); box-shadow:var(--shadow); }
+  .hero-diagram{ position:relative; width:100%; aspect-ratio:1/1; max-width:400px; margin:0 auto; border-radius:16px; overflow:hidden; border:1px solid var(--line); box-shadow:var(--shadow); }
   .hero-diagram .half{ position:absolute; inset:0; display:flex; flex-direction:column; justify-content:flex-end; padding:22px; }
   .hero-diagram .half.left{ clip-path:polygon(0 0,100% 0,0 100%); background:var(--system1); }
   .hero-diagram .half.right{ clip-path:polygon(100% 0,100% 100%,0 100%); background:var(--system2); }
